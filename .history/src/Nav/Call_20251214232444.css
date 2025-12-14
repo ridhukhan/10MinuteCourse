@@ -1,0 +1,13 @@
+.callmain{
+    z-index: 1000;
+    box-shadow: 2px 7px 15px black;
+    position: fixed;
+    justify-content: right;
+    width: 50px;
+}
+.callmain .callwh img{
+    border-radius: 25px;
+}
+.callmain .callph img{
+    border-radius: 25px;
+}

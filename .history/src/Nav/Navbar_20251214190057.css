@@ -1,0 +1,10 @@
+.navBar{
+width: 100%;
+display: inline;
+justify-content: space-between;
+
+}
+.navBar .navlogo{
+    width: 400px;
+    height: 100px;
+}

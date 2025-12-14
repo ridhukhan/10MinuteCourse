@@ -1,0 +1,15 @@
+.class6main{
+    display: flex;
+    height: 40vh;
+    width: 100%;
+    
+}
+.class6main .class61i{
+    height: 35vh;
+    margin: 1%;
+   box-shadow: 2px 7px 15px black;
+}
+.class6main .class62i{
+      height: 35vh;
+    margin: 1%;
+}

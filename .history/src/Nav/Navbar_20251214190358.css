@@ -1,0 +1,11 @@
+.navBar{
+width: 100%;
+display: flex;
+justify-content: space-between;
+height: 35px;
+box-shadow: 4px 7px 25px;
+}
+.navBar .navlogo{
+    width: 100px;
+    height: 100px;
+}
