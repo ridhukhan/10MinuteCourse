@@ -2,10 +2,10 @@
     z-index: 1000;
     box-shadow: 2px 7px 15px black;
     position: fixed;
-   border-radius: 15%;
+   
     width: 50px;
-   margin-left: 85%;
-   margin-top: 75%;
+    right: 01;
+   margin-top: 45%;
 }
 .callmain .callwh img{
     border-radius: 25px;
