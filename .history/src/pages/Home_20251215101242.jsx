@@ -26,7 +26,7 @@ const Home = () => {
         <button>৯ম শ্রেণি</button>
         <button>৮ম শ্রেণি</button>
         <button>৭ম শ্রেণি</button>
-        <button  style={{backgroundColor:"#e4a622ff"}}>৬ষ্ঠ শ্রেণি</button>
+        <button  style={{backgroundColor:"#ad8c43ff"}}>৬ষ্ঠ শ্রেণি</button>
 
        </div>
        </div>

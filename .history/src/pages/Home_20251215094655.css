@@ -1,0 +1,14 @@
+.hero1{
+
+width: 400px;
+margin-left: 7%;
+    height: 60vh;
+    box-shadow: 4px 7px 16px black;
+    border-radius: 9px;
+    padding-inline: 4%;
+}
+
+.hero1 img{
+    margin-top: 4%;
+   
+}

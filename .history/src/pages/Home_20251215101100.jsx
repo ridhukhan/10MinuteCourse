@@ -21,12 +21,12 @@ const Home = () => {
        
        <div className='buttons'>
         <button style={{backgroundColor:"#254e7eff"}}>Hsc 27</button>
-        <button  style={{backgroundColor:"#254e7eff"}}>Hsc 26</button>
+        <button>Hsc 26</button>
         <button>১০ম শ্রেণি</button>
         <button>৯ম শ্রেণি</button>
         <button>৮ম শ্রেণি</button>
         <button>৭ম শ্রেণি</button>
-        <button  style={{backgroundColor:"#e4a622ff"}}>৬ষ্ঠ শ্রেণি</button>
+        <button>৬ষ্ঠ শ্রেণি</button>
 
        </div>
        </div>

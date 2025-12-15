@@ -1,0 +1,19 @@
+.hero1{
+
+width: 400px;
+margin-left: 6%;
+    height: 60vh;
+    box-shadow: 4px 7px 16px black;
+    border-radius: 9px;
+    padding-inline: 3%;
+}
+
+.hero1 img{
+    margin-top: 4%;
+   border-radius: 5%;
+}
+.buttons button{
+    width: 100px;
+    height: 30px;
+    margin: 4px;
+}
