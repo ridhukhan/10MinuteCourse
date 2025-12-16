@@ -5,11 +5,11 @@ z-index: 1000;
 position: fixed;
 top: 0;
 background-color: rgb(240, 245, 234);
-height: 50px;
+height: 42px;
 box-shadow: 4px 7px 25px;
 }
 .navBar .navlogo{
-    width: 120px;
+    width: 100px;
     height: 100px;
     margin-top: 5px;
 }
@@ -19,14 +19,11 @@ box-shadow: 4px 7px 25px;
      background-color: rgb(122, 113, 113);
     border-radius: 15px;
     box-shadow: 4px 8px 15px black;
-    min-height: 42px;
      } 
 .navBar ul li{
-    color: coral;
-   max-width: 140px;
-
+   
      list-style: none;
-    padding-left: 50px;
+    padding: 10px;
     }
 
 .nav-menu.active{
@@ -34,5 +31,4 @@ border-bottom: 2px solid black;
 }
 li a{
 text-decoration: none;
-color: rgb(255, 255, 255);
 }

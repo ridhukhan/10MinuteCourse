@@ -6,7 +6,6 @@ import hero from "../assets/hero.jpeg"
 import "./Home.css"
 import Class9biggan from '../Component/Class9biggan'
 import Class9all from '../Component/Class9all'
-import { Link } from 'react-router-dom'
 const Home = () => {
   return (
     <div>
@@ -26,10 +25,10 @@ const Home = () => {
         <button style={{backgroundColor:"#254e7eff"}}>Hsc 27</button>
         <button  style={{backgroundColor:"#254e7eff"}}>Hsc 26</button>
         <button>১০ম শ্রেণি</button>
-        <button ><Link to="/Class9">৯ম শ্রেণি</Link></button>
-        <button><Link to="/Class8"> ৮ম শ্রেণি</Link></button>             
-        <button><Link to="/Class7">৭ম শ্রেণি</Link></button>
-        <button  style={{backgroundColor:"#e4a622ff"}}><Link to="/Class6">৬ষ্ঠ শ্রেণি</Link></button>
+        <button>৯ম শ্রেণি</button>
+        <button>৮ম শ্রেণি</button>
+        <button>৭ম শ্রেণি</button>
+        <button  style={{backgroundColor:"#e4a622ff"}}>৬ষ্ঠ শ্রেণি</button>
 
        </div>
        </div>
@@ -45,8 +44,10 @@ const Home = () => {
         <h1 style={{justifyContent:"center", textAlign:"center" ,marginTop:"7%"}}>ক্লাস ৮ এর সব কোর্স </h1>
 <hr />
 <Class8c/>
-<hr  style={{marginTop:"5%"}} />
-        <h1 style={{justifyContent:"center", textAlign:"center" ,marginTop:"7%"}}>ক্লাস ৯ বিজ্ঞান বিভাগ </h1>
+<hr  style={{marginTop:"8%"}} />
+        <h1 style={{justifyContent:"center", textAlign:"center" ,marginTop:"7%"}}>ক্লাস ৯ বিজ্ঞান বিভাগ 
+
+        </h1>
 <Class9biggan/>
         <h1 style={{justifyContent:"center", textAlign:"center" ,marginTop:"7%"}}>ক্লাস ৯ সকল বিভাগ</h1>
 

@@ -9,7 +9,7 @@ height: 50px;
 box-shadow: 4px 7px 25px;
 }
 .navBar .navlogo{
-    width: 120px;
+    width: 100px;
     height: 100px;
     margin-top: 5px;
 }
@@ -24,9 +24,8 @@ box-shadow: 4px 7px 25px;
 .navBar ul li{
     color: coral;
    max-width: 140px;
-
      list-style: none;
-    padding-left: 50px;
+    padding: 17px;
     }
 
 .nav-menu.active{
@@ -34,5 +33,4 @@ border-bottom: 2px solid black;
 }
 li a{
 text-decoration: none;
-color: rgb(255, 255, 255);
 }

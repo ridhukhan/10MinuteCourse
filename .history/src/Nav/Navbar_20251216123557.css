@@ -1,0 +1,40 @@
+.navBar{
+width: 100%;
+display: flex;
+z-index: 1000;
+position: fixed;
+top: 0;
+background-color: rgb(240, 245, 234);
+height: 42px;
+box-shadow: 4px 7px 25px;
+}
+.navBar .navlogo{
+    width: 100px;
+    height: 100px;
+    margin-top: 5px;
+}
+.navBar ul {
+    display: flex;
+    gap: 11px;              /* li এর মাঝে ফাঁকা */
+    margin-left: 3%;
+    max-width: 20%;
+    overflow-x: auto;
+    flex-wrap: nowrap;      /* এক লাইনে রাখবে */
+}
+
+.navBar ul li {
+    list-style: none;
+    min-width: 6%;         /* ৩টা আইটেম দেখা যাবে */
+    flex-shrink: 0;         /* চিকন হওয়া বন্ধ */
+    text-align: center;
+    padding: 4px;
+    background: #eee;       /* শুধু বুঝার জন্য */
+    border-radius: 6px;
+}
+
+.nav-menu.active{
+border-bottom: 2px solid black;
+}
+li a{
+text-decoration: none;
+}

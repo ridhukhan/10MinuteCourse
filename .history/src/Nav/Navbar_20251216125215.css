@@ -9,7 +9,7 @@ height: 50px;
 box-shadow: 4px 7px 25px;
 }
 .navBar .navlogo{
-    width: 120px;
+    width: 150px;
     height: 100px;
     margin-top: 5px;
 }
@@ -34,5 +34,4 @@ border-bottom: 2px solid black;
 }
 li a{
 text-decoration: none;
-color: rgb(255, 255, 255);
 }

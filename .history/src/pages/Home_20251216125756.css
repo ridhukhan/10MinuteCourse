@@ -21,7 +21,6 @@ width: 400px;
     background-color:rgb(71, 69, 69);
     color: aliceblue;
 }
- .buttons a{
+ .buttons Link{
     text-decoration: none;
-     color: aliceblue;
 }

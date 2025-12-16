@@ -1,0 +1,29 @@
+.navBar{
+width: 100%;
+display: flex;
+z-index: 1000;
+position: fixed;
+top: 0;
+background-color: rgb(240, 245, 234);
+height: 35px;
+box-shadow: 4px 7px 25px;
+}
+.navBar .navlogo{
+    width: 100px;
+    height: 100px;
+}
+.navBar ul{
+    display: flex;
+    margin-left: 10%;
+ overflow-x: scroll;
+   
+}
+.navBar ul li{
+    list-style: none;
+}
+.nav-menu.active{
+border-bottom: 2px solid black;
+}
+li a{
+text-decoration: none;
+}

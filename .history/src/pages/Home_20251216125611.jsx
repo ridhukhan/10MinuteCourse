@@ -26,10 +26,10 @@ const Home = () => {
         <button style={{backgroundColor:"#254e7eff"}}>Hsc 27</button>
         <button  style={{backgroundColor:"#254e7eff"}}>Hsc 26</button>
         <button>১০ম শ্রেণি</button>
-        <button ><Link to="/Class9">৯ম শ্রেণি</Link></button>
-        <button><Link to="/Class8"> ৮ম শ্রেণি</Link></button>             
-        <button><Link to="/Class7">৭ম শ্রেণি</Link></button>
-        <button  style={{backgroundColor:"#e4a622ff"}}><Link to="/Class6">৬ষ্ঠ শ্রেণি</Link></button>
+        <button><Link to="/Class9">৯ম শ্রেণি</Link></button>
+        <button>৮ম শ্রেণি</button>
+        <button>৭ম শ্রেণি</button>
+        <button  style={{backgroundColor:"#e4a622ff"}}>৬ষ্ঠ শ্রেণি</button>
 
        </div>
        </div>

@@ -1,0 +1,66 @@
+.class9allmain{
+    display: flex;
+   min-height: 40vh;
+    min-width: 100%;
+   overflow-x: scroll; 
+   box-shadow: 4px 8px 15px black;
+}
+.class9allmain .class9alli{
+    height: 11vh;
+    min-width: 40%;
+    margin: 1%;
+   box-shadow: 2px 7px 15px black;
+   border-radius: 4px;
+}
+.class9allmain .class9bm1i{
+      height: 25vh;
+    min-width: 40%;
+
+    margin: 1%;
+   box-shadow: 2px 7px 15px black;
+   border-radius: 4px;
+
+}
+.class9allmain .class9bm2i{
+      height: 25vh;
+    min-width: 40%;
+
+    margin: 1%;
+   box-shadow: 2px 7px 15px black;
+   border-radius: 4px;
+
+}
+.class9alli h4{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.class9bm1i h4{
+    text-align: center;
+}
+.class9bm2i h4{
+    text-align: center;
+}
+.class9alli button{
+  background: rgb(40, 168, 40);
+  color: rgb(248, 247, 244);
+  border: none;
+border-radius: 7px;
+   box-shadow: 2px 4px 11px black;
+ 
+}
+.class9bm1i button{
+  background: rgb(40, 168, 40);
+  color: rgb(248, 247, 244);
+  border: none;
+border-radius: 7px;
+   box-shadow: 2px 4px 11px black;
+ 
+}
+.class9bm2i button{
+  background: rgb(40, 168, 40);
+  color: rgb(248, 247, 244);
+  border: none;
+border-radius: 7px;
+   box-shadow: 2px 4px 11px black;
+ 
+}
